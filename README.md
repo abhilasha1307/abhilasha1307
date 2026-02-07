@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Abhilasha
 
-Backend Software Engineer (SDE-2)  
+Backend Software Engineer (SDE-2) building security-critical backend systems with Java & Spring Boot.
 Java • Spring Boot • Security • Distributed Systems
 
 I build **production-grade backend systems** with a strong focus on
