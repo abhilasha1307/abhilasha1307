@@ -16,7 +16,12 @@ authentication, scalability, and clean design.
 - **Languages:** Java  
 - **Backend:** Spring Boot, Spring Security  
 - **Databases:** PostgreSQL, Redis  
-- **DevOps:** Docker, Git, CI/CD basics  
+- **DevOps:** Docker, Git, CI/CD basics
+
+### 🚀 Currently Building
+- Secure Authentication Service
+- Distributed Rate Limiter
+- Job Scheduler for background tasks
 
 ### 🧠 Currently Focusing On
 - Advanced Low-Level Design
